@@ -39,7 +39,7 @@ We propose that the City of Hamilton implement the following legislation, simila
   <img width="396" height="290" src="https://github.com/ahmedz35/zargham-test/blob/main/docs/Hamproj1.png">
 </p>
 
-*__Figure 2:__ Regions of recent development in the greater Hamilton Area, outside of the downtown area. These developing areas are good locations for the beginning of the proposed green roof project*
+*__Figure 2:__ Regions of recent development in the greater Hamilton Area, outside of the downtown area. These developing areas are good locations for the beginning of the proposed green roof project (City of Hamilton, 2020a; b).*
 <br>
 <br>
 
@@ -47,7 +47,7 @@ We propose that the City of Hamilton implement the following legislation, simila
   <img width="608" height="800" src="https://github.com/ahmedz35/zargham-test/blob/main/docs/hamproj2.png">
 </p>
 
-*__Figure 3:__ Sites of planned development in the regions outlined in Figure 2. The areas marked by red/orange are specific lots where new condominiums or apartment buildings are being constructed.*
+*__Figure 3:__ Sites of planned development in the regions outlined in Figure 2. The areas marked by red/orange are specific lots where new condominiums or apartment buildings are being constructed (City of Hamilton, 2020a; b).*
 
 ## References
 Bianchini, F. and Hewage, K., 2012. Probabilistic social cost-benefit analysis for green roofs: A lifecycle approach. Building and Environment, 58, pp.152–162. 
@@ -57,6 +57,12 @@ Brenneisen, S., 2003. The benefits of biodiversity from green roofs-key design c
 <br>
 <br>
 Brenneisen, S., 2006. Space for Urban Wildlife: Designing Green Roofs as Habitats in Switzerland. Urban Habitats, 4, pp.27–36. 
+<br>
+<br>
+City of Hamilton, 2020a. Urban Residential Subdivisions: Glanbrook. Available at: <https://www.hamilton.ca/sites/default/files/media/browser/2020-05-04/subdivision-condo-development-glanbrook-2019.pdf>.
+<br>
+<br>
+City of Hamilton, 2020b. Urban Residential Subdivisions: Stoney Creek. Available at: <https://www.hamilton.ca/sites/default/files/media/browser/2020-05-04/subdivision-condo-development-stoney-creek-2019.pdf>.
 <br>
 <br>
 City of Toronto, 2021. Eco-Roof Incentive Program. [online] Toronto. Available at: <https://www.toronto.ca/services-payments/water-environment/environmental-grants-incentives/green-your-roof/> [Accessed 3 Mar. 2021]. 
